@@ -1,0 +1,7 @@
+echo "# python_for_APCS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:eddie3256/python_for_APCS.git
+git push -u origin main
